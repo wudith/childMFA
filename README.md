@@ -1,0 +1,2 @@
+# childMFA
+基于纯angular配置的angular9子应用DEMO
